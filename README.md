@@ -13,7 +13,7 @@ To use GitHub Copilot, you must have an active GitHub Copilot subscription.
 
 **Sign up for free here: [GitHub Copilot](https://gh.io/copilot).** 
 
-To make it easier to revisit this repository in the future, you can also [star (🌟) this repo](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars?WT.mc_id=academic-113596-abartolo) this repo.
+To make it easier to revisit this repository in the future, you can also [star (🌟)](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars?WT.mc_id=academic-113596-abartolo) this repo.
 
 Below are links to each lesson—feel free to explore and dive into any topic that interests you the most! 
 
